@@ -2,7 +2,7 @@
 
 [CoPLaWS](https://coplaws.github.io) is a series of annual workshops for programming language researchers working in the greater Copenhagen area, open to academics (DTU, KU, ITU, RUC, AAU CPH) and researchers in industry and other institutions. The aim is to get together and learn about each other's work.
 
-**[CoPLaWS 2025](https://coplaws.github.io/2025)** is the third edition of the workshop. It will take place on **Friday 22 August 2025** in Copenhagen at **[Aalborg University Copenhagen, Konferencesalen (A. C. Meyers Vænge 15, room number 1.001b](https://maps.app.goo.gl/QhL3DdXiMjMqgmVw5)** . It will be a full-day event including dinner (at the expense of the participants).
+**[CoPLaWS 2025](https://coplaws.github.io/2025)** is the third edition of the workshop. It will take place on **Friday 22 August 2025** in Copenhagen at **[Aalborg University Copenhagen, Konferencesalen (A. C. Meyers Vænge 15, room number 1.001b](https://maps.app.goo.gl/QhL3DdXiMjMqgmVw5)**. It will be a full-day event including dinner (at the expense of the participants).
 
 ## Invited Speaker
 
@@ -14,7 +14,14 @@
 
 ## Call for Talks 
 
-We invite proposals for 20-minute talks for the workshop. Since there are many programming language researchers in Copenhagen, it is likely that we will get more talk proposals than can fit in a day. In that event, the talks will be selected by the organisers based on a light reviewing process. We will aim for diversity in topics and institutions represented. 
+We invite proposals two kinds of talks:
+
+- 20-minute talks
+- maximum 10-minute "short talks"
+
+We encourage also PhD students to submit proposals of either kind! We encourage also presentations of work-in-progress research!
+
+Since there are many programming language researchers in Copenhagen, it is likely that we will get more talk proposals than can fit in a day. In that event, the talks will be selected by the organisers based on a light reviewing process. We will aim for diversity in topics and institutions represented. 
 
 Talk proposals should consist of a title and a one-paragraph abstract. No need to submit any PDF. 
 
