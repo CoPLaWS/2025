@@ -19,7 +19,8 @@ We invite proposals for 20-minute talks for the workshop. Since there are many p
 Talk proposals should consist of a title and a one-paragraph abstract. No need to submit any PDF. 
 
 - **Submission Link:** _TBA_
-- **Submission deadline:** _TBA_
+- **Submission deadline:** 11 August 2025
+- **Notification:** 13 August 2025
 
 ## Local Organisers
 Léon Gondelman, Anders Schlichtkrull
