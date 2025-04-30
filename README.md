@@ -10,9 +10,9 @@ It will be a full-day event with an optional dinner. For information on the dinn
 
 ## Invited Speaker
 
-**[_TBA_](https://tba.tba)**
+**[Thomas Jensen](https://people.rennes.inria.fr/Thomas.Jensen/)**
 
-**Title:** _TBA_
+**Title:** Program analysis for language-based security
 
 **Abstract:** _TBA_
 
@@ -32,7 +32,7 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 - **Talk proposal submission link:** [Submission in Microsoft Forms](https://forms.office.com/e/cAdc00zdrU)
 - **Talk proposal submission deadline:** 10 August 2025
 - **Notification:** 12 August 2025
-- **Participation registration link:** [TBA](https://tba.tba)
+- **Participation registration link:** [Registration in Microsoft Forms](https://forms.cloud.microsoft/e/qj3jJSXzTJ)
 - **Participation registration deadline:** 13 August 2025
 
 ## CoPLaWS Dinner 
