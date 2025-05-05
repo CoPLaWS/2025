@@ -38,7 +38,7 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 ## CoPLaWS Dinner 
 Assuming that the attendance number is similar to previous years, the Department of Computer Science at Aalborg University will be able to pay for the CoPLaWS dinner. 
 The dinner will start 18:30 at [Madklubben København, Store Kongensgade 66](https://maps.app.goo.gl/C1YPPPQyyEfsh6Qd6).
-You sign up for the dinner through the participation registration link above.
+You sign up for the dinner through the "Participation registration link" above.
 In case of an abnormally large attendance number, we will have to change this plan, and we will let you know
 as soon as possible after the registration deadline.
 
