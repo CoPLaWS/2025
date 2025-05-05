@@ -32,7 +32,7 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 - **Talk proposal submission link:** [Submission in Microsoft Forms](https://forms.office.com/e/cAdc00zdrU)
 - **Talk proposal submission deadline:** 10 August 2025
 - **Notification:** 12 August 2025
-- **Participation registration link:** [Registration in Microsoft Forms](https://forms.cloud.microsoft/e/qj3jJSXzTJ)
+- **Participation registration link:** [Registration in Microsoft Forms](https://forms.office.com/e/qj3jJSXzTJ)
 - **Participation registration deadline:** 13 August 2025
 
 ## CoPLaWS Dinner 
@@ -40,6 +40,7 @@ Assuming that the attendance number is similar to previous years, the Department
 The dinner will start 18:30 at [Madklubben København, Store Kongensgade 66](https://maps.app.goo.gl/C1YPPPQyyEfsh6Qd6).
 In case of an abnormally large attendance number, we will have to change this plan, and we will let you know
 as soon as possible after the registration deadline.
+You sign up for the dinner through the aarticipation registration link above.
 
 ## Local Organisers
 Léon Gondelman, Anders Schlichtkrull
