@@ -10,7 +10,7 @@ It will be a full-day event with an optional dinner. For information on the dinn
 
 ## Invited Speaker
 
-**[Thomas Jensen (INRIA)](https://people.rennes.inria.fr/Thomas.Jensen/)**
+**[Thomas Jensen (INRIA and University of Copenhagen)](https://people.rennes.inria.fr/Thomas.Jensen/)**
 
 **Title:** Program analysis for language-based security
 
