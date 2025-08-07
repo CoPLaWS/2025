@@ -12,9 +12,17 @@ It will be a full-day event with an optional dinner. For information on the dinn
 
 **[Thomas Jensen (INRIA and University of Copenhagen)](https://people.rennes.inria.fr/Thomas.Jensen/)**
 
-**Title:** Program analysis for language-based security
+**Title:** Program analysis for software security
 
-**Abstract:** _TBA_
+**Abstract:** Program analysis is an important tool for enhancing the security of
+software. Examples include analyses for enforcing memory protection,
+control flow integrity, and correct flow of confidential
+information. This talk will provide a (necessarily partial) overview
+of the large panorama of analyses and their uses. Because program
+analyses are cornerstones of many security architectures, their
+correctness becomes critical. The second part of the talk will provide
+examples of how programming language semantics can be used to verify
+formally the correctness of security analysers.
 
 ## Call for Talks 
 
