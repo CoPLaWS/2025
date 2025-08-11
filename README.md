@@ -37,8 +37,8 @@ Since there are many programming language researchers in Copenhagen, it is likel
 
 Talk proposals should consist of a title and a one-paragraph abstract. No need to submit any PDF. 
 
-- **Talk proposal submission link:** [Submission in Microsoft Forms](https://forms.office.com/e/cAdc00zdrU)
-- **Talk proposal submission deadline:** 10 August 2025
+- ~~**Talk proposal submission link:** [Submission in Microsoft Forms](https://forms.office.com/e/cAdc00zdrU)~~
+- ~~**Talk proposal submission deadline:** 10 August 2025~~
 - **Notification:** 12 August 2025
 - **Participation registration link:** [Registration in Microsoft Forms](https://forms.office.com/e/qj3jJSXzTJ)
 - **Participation registration deadline:** 13 August 2025
