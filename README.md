@@ -49,7 +49,7 @@ formally the correctness of security analysers.
   </tr>
   <tr>
     <td>10:05</td>
-    <td><strong>Juanita Caballero-Villalobos</strong>, Andrea Burattin, Hugo A. López.</td>
+    <td><strong>Juanita Caballero-Villalobos</strong>, Andrea Burattin and Hugo A. López.</td>
     <td><em>High-Level Requirements-Driven Business Process Compliance</em></td>
   </tr>
   <tr>
@@ -79,7 +79,7 @@ formally the correctness of security analysers.
   </tr>
   <tr>
     <td>11:50</td>
-    <td><strong>Fritz Henglein</strong>, Thobias Larsen, Mads Rehof, Sjúrður Skorheim.</td>
+    <td><strong>Fritz Henglein</strong>, Thobias Larsen, Mads Rehof and Sjúrður Skorheim.</td>
     <td><em>Functional Simulation of Quantum Circuits on Tensor Terms</em></td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ formally the correctness of security analysers.
   </tr>
   <tr>
     <td>13:35</td>
-    <td>Reynald Affeldt, <strong>Alessandro Bruni</strong>, Cyril Cohen, Pierre Roux and Takafumi Saikawa</td>
+    <td>Reynald Affeldt, <strong>Alessandro Bruni</strong>, Cyril Cohen, Pierre Roux and Takafumi Saikawa.</td>
     <td><em>Formalizing concentration inequalities in Rocq: infrastructure and automation</em></td>
   </tr>
   <tr>
