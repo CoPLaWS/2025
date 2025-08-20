@@ -4,7 +4,9 @@
 
 **[CoPLaWS 2025](https://coplaws.github.io/2025)** is the third edition of the workshop. It will take place on  
 
-- **Friday 22 August 2025** in **Copenhagen** at **[Aalborg University Copenhagen, Konferencesalen (A. C. Meyers Vænge 15, room number 1.001b)](https://maps.app.goo.gl/QhL3DdXiMjMqgmVw5)**. 
+- **Friday 22 August 2025** in **Copenhagen** at <a href="#the-room">Aalborg University Copenhagen, Konferencesalen (A. C. Meyers Vænge 15, room number 1.001)</a>. 
+See below how to find <a href="#the-room">the room</a>.
+
 
 It will be a full-day event with an optional dinner. For information on the dinner see below.
 
@@ -204,6 +206,34 @@ Talk proposals should consist of a title and a one-paragraph abstract. No need t
 - ~~**Participation registration link:** [Registration in Microsoft Forms](https://forms.office.com/e/qj3jJSXzTJ)~~
 - ~~**Participation registration deadline:** 13 August 2025~~
 -->
+
+## The room
+The venue is
+**Friday 22 August 2025** in **Copenhagen** at **[Aalborg University Copenhagen, Konferencesalen (A. C. Meyers Vænge 15, room number 1.001)](https://maps.app.goo.gl/QhL3DdXiMjMqgmVw5)**. 
+
+Here is the explanation of how to find the room:
+
+First you go towards the outdoor staircase.
+
+<img src="0.jpg" alt="AAU CPH" width="400"/>
+
+Then go up the stairs.
+
+<img src="1.jpg" alt="Stairs" width="400"/>
+
+Enter the rotating door.
+
+<img src="2.jpg" alt="Door" width="400"/>
+
+Walk this way:
+
+<img src="3.jpg" alt="Vindfang
+" width="400"/>
+
+And then walk to konferencesalen 1.001:
+
+<img src="4.jpg" alt="Konferencesalen" width="400"/>
+
 
 ## CoPLaWS Dinner 
 Assuming that the attendance number is similar to previous years, the Department of Computer Science at Aalborg University will be able to pay for the CoPLaWS dinner. 
