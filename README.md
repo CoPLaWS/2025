@@ -46,8 +46,8 @@ formally the correctness of security analysers.
   </tr>
   <tr>
     <td>9:50</td>
-    <td><strong>Oleks Shturmov</strong>.</td>
-    <td><em>Towards Multi-Source Software Engineering</em></td>
+    <td>Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker and <strong>Anders Schlichtkrull</strong>.</td>
+    <td><em>PSPSP: A Tool for Automated Verification of Stateful Protocols in Isabelle/HOL</em></td>
   </tr>
   <tr>
     <td>10:05</td>
@@ -125,14 +125,9 @@ formally the correctness of security analysers.
     <td> </td>
   </tr>
   <tr>
-    <td>15:05</td>
+    <td>15:20</td>
     <td><strong>Radosław Jan Rowicki</strong>.</td>
     <td><em>Tricks you can do with Coq</em></td>
-  </tr>
-  <tr>
-    <td>15:20</td>
-    <td>Andreas V. Hess, Sebastian Mödersheim, Achim D. Brucker and <strong>Anders Schlichtkrull</strong>.</td>
-    <td><em>PSPSP: A Tool for Automated Verification of Stateful Protocols in Isabelle/HOL</em></td>
   </tr>
   <tr>
     <td>15:35</td>
@@ -234,6 +229,11 @@ And then walk to konferencesalen 1.001:
 
 <img src="4.jpg" alt="Konferencesalen" width="400"/>
 
+## Parking
+Anders Schlichtkrull has sent parking licenses to all participants on e-mail. Additional licenses are available
+at the conference and in the reception.
+Futher information about parking can be found
+[here](https://www.campusservice.aau.dk/campus-service-cph/parkering-campus-cph).
 
 ## CoPLaWS Dinner 
 Assuming that the attendance number is similar to previous years, the Department of Computer Science at Aalborg University will be able to pay for the CoPLaWS dinner. 
