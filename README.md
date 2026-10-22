@@ -116,7 +116,7 @@ formally the correctness of security analysers.
   </tr>
   <tr>
     <td>14:20</td>
-    <td><strong>William Henrich Due</strong>, Martin Elsman and Troels Henriksen.</td>
+    <td><strong>Lilje Henrich Due</strong>, Martin Elsman and Troels Henriksen.</td>
     <td><em>Functional Hash Maps in a Data Parallel Language</em></td>
   </tr>
   <tr style="color: black; background-color: #C8DCEF">
